@@ -1,3 +1,3 @@
 # GradientLayerAnimation
 
-![](https://github.com/sharickh/GradientLayerAnimation/gradientLayer.gif)
+![img](https://github.com/sharickh/GradientLayerAnimation/gradientLayer.gif)
